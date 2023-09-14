@@ -22,5 +22,5 @@ const seedAll = async () => {
 
   process.exit(0);
 };
-
+// Call seedAll function to seed the database
 seedAll();
