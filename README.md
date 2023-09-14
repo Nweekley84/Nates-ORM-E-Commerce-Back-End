@@ -51,7 +51,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ###
 
 The following animation demonstrates the application functionality:
-![A user clicks on slots on the color-coded calendar and edits the events.](./public/assets/Images/GIF01.GIF)
+![](./public/assets/Images/GIF01.gif) 
 
 ## Usage Instructions
 1. Open the repository and run.
