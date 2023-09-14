@@ -11,6 +11,7 @@ Back end for an e-commerce site by modifying starter code utilizing MySQL & Inso
 - [Overview](#Overview)
 - [The Challenge](#The-Challenge)
 - [Usage Instructions](#Usage-Instructions)
+- [YouTube Walkthrough Video](#YouTube-Walkthrough-Video)
 - [Installation Process](#Installation-Process)
 - [Built With](#Built-With)
 - [What I Learned](#What-I-Learned)
@@ -50,7 +51,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ###
 
 The following animation demonstrates the application functionality:
-![A user clicks on slots on the color-coded calendar and edits the events.](./public/assets/Images/ORM.GIF)
+![A user clicks on slots on the color-coded calendar and edits the events.](./public/assets/Images/GIF01.GIF)
 
 ## Usage Instructions
 1. Open the repository and run.
@@ -90,7 +91,7 @@ npm run watch nodemon
 [GitHub Repository:](https://github.com/Nweekley84/Nates-ORM-E-Commerce-Back-End)
 
 ## YouTube Walkthrough Video:
-[Click Here to Watch](TBD)
+[Click Here to Watch](https://www.youtube.com/watch?v=DXA8uCWjW64)
 
 ## Screenshots:
 ### Figure 1. Screenshot
@@ -157,6 +158,6 @@ SOFTWARE.
 
 <div align="center">
 
-[![github](./public/assets/images/github.svg)](https://github.com/Nweekley84) 
+[![github](./public/assets/images/gitcat.svg)](https://github.com/Nweekley84) 
 
 </div>
