@@ -158,6 +158,6 @@ SOFTWARE.
 
 <div align="center">
 
-[![github](./public/assets/images/gitcat.svg)](https://github.com/Nweekley84) 
+[![github](./public/assets/images/github.svg)](https://github.com/Nweekley84) 
 
 </div>
